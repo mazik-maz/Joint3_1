@@ -4,8 +4,6 @@
 #include <iostream>
 #include <vector>
 #include <bits/stdc++.h>
-#define GNUPLOT_NAME "C:\\gnuplot\\bin\\gnuplot -persist"
-
 
 using namespace std;
 
